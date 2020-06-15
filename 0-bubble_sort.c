@@ -29,6 +29,7 @@ void bubble_sort(int *array, size_t size)
  * swapping - swaps integers
  * @array: array
  * @i: int
+ * @j: int
  * Return: void
  **/
 void swapping(int *array, int i, int j)
