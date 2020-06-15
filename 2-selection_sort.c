@@ -22,7 +22,7 @@ void selection_sort(int *array, size_t size)
 		if (j != min_idx)
 		{
 			swapping(array, j, min_idx);
-			print_array(arra, size);
+			print_array(array, size);
 		}
 	}
 }
